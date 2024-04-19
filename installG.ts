@@ -13,7 +13,7 @@ const cmdText = `
 :: created by C:/Users/nhron/dev/Bun/Utils/Simple/installG.ts
 :: serves a project configuration from project root
 
-@bun "run" "C:/Users/nhron/dev/Bun/utils/Simple/index.ts" %*
+@bun "run" "C:/Users/nhron/dev/Bun/DevTools/DevTool-Simple/index.ts" %*
 `;
 
 /**

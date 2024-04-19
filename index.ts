@@ -1,4 +1,4 @@
-import { openWebsite } from 'Browser'  //'./deps.ts'
+import { openWebsite } from 'Browser'
 //@ts-ignore
 import { join } from 'bun:path';
 

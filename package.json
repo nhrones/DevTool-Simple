@@ -6,7 +6,7 @@
     "@types/bun": "latest"
   },
   "dependencies": {
-    "browser": "git@github.com:nhrones/Browser.git",
-    "config": "git@github.com:nhrones/Config.git"
+    "browser": "git@github.com:nhrones/DevTool-Browser.git",
+    "config": "git@github.com:nhrones/DevTool-Config.git"
   }
 }
