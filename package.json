@@ -1,0 +1,12 @@
+{
+  "name": "simple",
+  "module": "serve.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "dependencies": {
+    "browser": "git@github.com:nhrones/Browser.git",
+    "config": "git@github.com:nhrones/Config.git"
+  }
+}
